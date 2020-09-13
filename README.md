@@ -23,16 +23,14 @@
 <p>Fuente: Colegio de fisioterapeutas, Comunidad de Madrid.</p>
 </center>
 
-
-<p></p>
 <p>Otro gran reto para los fisioterapeutas que asisten a los pacientes que sobreviven a una unidad de cuidados intensivos, principalmente los que requieren ventilación mecánica, es la rehabilitación respiratoria. Existen factores como, el tiempo de destete, el tiempo que permanecieron en UCI, las comorbilidades y la edad de los pacientes, que determinan el tiempo necesario de la terapia respiratoria.</p>
 <p>La diversidad de ejercicios se relaciona con la variedad de patologías que sufre el sistema respiratorio. Por un lado, el atrofiamiento de la musculatura inspiratoria y espiratoria (diafragma y músculos accesorios), por otro, los cambios microestructurales que genera la PEEP en la UCI y, dependiendo de la enfermedad respiratoria, se puede ver afectada también la higiene bronquial.</p>
 <p>En la fisioterapia respiratoria tampoco existe un tratamiento consensuado general, no obstante, en el marco de la pandemia de SARS CoV 2 múltiples asociaciones de fisioterapia, así como hospitales y colegios médicos han recomendado algunas técnicas destinadas a distintos objetivos como las mostradas a continuación [6] [7]:</p>
 
-<p> 1.Optimizar el patrón respiratorio del paciente y disminuir su sensación de disnea cuando esté presente mediante:</p>
+<p> 1. Optimizar el patrón respiratorio del paciente y disminuir su sensación de disnea cuando esté presente mediante:</p>
 <p>   -Espiración labios fruncidos</p>
 <p>   -Respiración diafragmática (sentado / acostado)</p>
-<p> 2.Aumentar los volúmenes pulmonares y mejorar la expansión del parénquima pulmonar, favoreciendo al mismo tiempo la movilidad de la caja torácica mediante:</p>
+<p> 2. Aumentar los volúmenes pulmonares y mejorar la expansión del parénquima pulmonar, favoreciendo al mismo tiempo la movilidad de la caja torácica mediante:</p>
 <p>   -Respiración costal o expansión torácica (sentado / acostado)</p>
 <p>   -Uso de un espirómetro/inspirómetro de incentivo (volumétrico): Dispositivo dependiente del flujo o del volumen de aire espirado, que actúa disminuyendo la presión pleural, promoviendo un aumento de la expansión pulmonar y mejor intercambio gaseoso. Además, actúa mediante retroalimentación visual, pues al realizar inspiraciones sostenidas máximas hay una representación visual del esfuerzo del paciente que lo motiva a seguir avanzando en su realización. [8]</p>
 <center>
@@ -40,8 +38,8 @@
 <p>Figura 2. Espirómetro de incentivo.</p>
 <p>Fuente: Memorial Sloan Kettering Cancer Center.</p>
 </center>
-<p></p>
-<p> 3.Favorecer el drenaje de secreciones mediante técnicas que puedan ser realizadas de forma autónoma y adaptada a las necesidades del paciente y a su capacidad de aprendizaje como [9]:</p>
+
+<p> 3. Favorecer el drenaje de secreciones mediante técnicas que puedan ser realizadas de forma autónoma y adaptada a las necesidades del paciente y a su capacidad de aprendizaje como [9]:</p>
 <p>   -Espiración lenta con la boca abierta</p>
 <p>   -Estimulación de la tos</p>
 <p>   -Uso de un dispositivo de presión espiratoria positiva (Bottle PEP o Threshold): Dispositivo que mejora el volumen pulmonar, reduce la hiperinsuflación y elimina las secreciones. El dispositivo suministra una presión positiva controlada para fortalecer la fuerza y resistencia de la musculatura respiratoria. Cabe resaltar que existen alternativas domésticas como el Bottle PEP con eficacia comprobada. [10]</p>
