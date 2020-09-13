@@ -45,7 +45,7 @@
 <h3>Adherencia a la Rehabilitación</h3>
 <p>Con respecto a fisioterapia respiratoria, la literatura latinoamericana señala que los pacientes adultos mayores son más propensos a dejar el tratamiento y los principales motivos están relacionados con la motivación, la distancia de la vivienda al centro asistencial y la disponibilidad de ingreso económico o de obra social. [11] [12] [13]</p>
 
-<h2>Rehabilitación Post-UCI</h2>
+<h2>Referencias</h2>
 
 <p>[1] C. L. Hodgson and C. J. Tipping, "Physiotherapy management of intensive care unit-acquired weakness," Journal of Physiotherapy, vol. 63, no. 1, pp. 4-10, 2017.</p>
 <p>[2] B. Connolly, "Exercise rehabilitation following intensive care unit discharge for recovery from critical illness," Cochrane Database of Systematic Reviews, no. 6, 2015.</p>
